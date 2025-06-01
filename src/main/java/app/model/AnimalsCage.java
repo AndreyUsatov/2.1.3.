@@ -28,4 +28,4 @@ public class AnimalsCage {
         System.out.println("________________________");
     }
 }
-// Комментарии
+// Комментарии.

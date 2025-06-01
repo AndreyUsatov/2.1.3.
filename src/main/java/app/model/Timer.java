@@ -12,4 +12,4 @@ public class Timer {
         return nanoTime;
     }
 }
-// Комментарии
+// Комментарии.
